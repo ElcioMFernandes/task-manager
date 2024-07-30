@@ -1,1 +1,0 @@
-print('Tarefa: update_excel.py realizada!')
